@@ -1,0 +1,2 @@
+# PraktikumWeek14_BryantAnthonyThauwrisan_0706022010008
+Reverse dan Urutkan
